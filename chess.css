@@ -2,7 +2,8 @@ th,td{
     width:80px;
     height: 100px;
     text-align: center;
-    font-size: 80px;
+    font-size: 70px;
+    
     
 }
 .big{
@@ -10,4 +11,24 @@ th,td{
 background-color:burlywood;
 
 
+}
+
+body{
+display: flex;
+justify-content: center;
+
+}
+h1{
+
+display: flex;
+justify-content: center ;
+background-color: rgb(227, 202, 172);
+
+
+}
+
+footer{
+
+    font-size: x-large;
+    font-variant-caps: small-caps;
 }
